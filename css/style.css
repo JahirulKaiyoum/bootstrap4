@@ -1,0 +1,252 @@
+/* Auther Name:Md.Jahirul Islam
+    AUTHOR info:kaiyoumkhan@gmail.com
+*/
+
+/*
+====INDEX====
+    1.fusce at
+    2.AboutUs
+    3.Sevice
+    4.Blog
+    5.ContctUs
+==============
+/*Global CSS*/
+section{
+    padding: 100px
+}
+*{
+    margin:0 ;
+    padding: 0;
+
+}
+
+h2{
+font-size: 47px;
+color: #fff;
+}
+h3{
+ font-size: 24px;
+ color: #31353e;
+ margin-top:25px; 
+
+}
+p{
+    font-size: 16px;
+    color: #fff;
+}
+.cstm-btn-one{
+    margin: 20px auto;
+    display: block;
+    background: white;
+    color: black;
+    border-radius: 18px;
+    padding: 6px 24px;
+    border: none;
+}
+.cstm-btn-two{
+    
+}
+.no-padding{
+
+}
+/*theme CSS*/
+
+/*Nav part starts*/
+.navbar-new{
+    background: #edeff1;
+    padding: 25px;
+}
+.nav-link{
+    color: #161616 !important;
+}
+.js-scroll-trigger.active{
+    color: white;
+    background: #dd4b2b;
+    border-radius: 20px;
+    padding: auto 10px;
+}
+/*Nav part Ends*/
+
+/*Hero part starts*/
+.hero{
+    background: url(../img/Panakeia_template-Symu_co.png)center top;
+    background-size:cover;
+    background-repeat: no-repeat; 
+}
+.content-top {
+    padding-top: 340px;
+    color: #fff;
+    text-align: center;
+}
+.hero-one{
+    text-align: center;
+}
+.hero-one h3{
+    margin: 15px auto;
+    color: #fff;
+    font-size: 30px;
+}
+
+
+/*Hero part Ends*/
+
+/* Hero part starts*/
+.News{
+background: #edeff1;
+}
+.News-top{
+    text-align: center;
+    }
+.News h2{
+    color: #31353e;
+}
+.News-content{
+ text-align: center;
+ padding-top:75px; 
+}
+.News-content p{
+    color: #161616;
+   }
+
+
+
+
+/* part ends*/
+
+/* Newsletter part starts*/
+.Newsletter {
+    background: url(../img/8.png)center top;
+    background-size: cover;
+}
+
+.Newsletter-top{
+position: relative;
+    padding-bottom: 66px;
+}
+.Newsletter-top h2{
+    text-align: center;
+}
+.Newsletter-top p{
+    text-align: center;
+}
+
+
+.input-box {
+    width: 98%;
+    padding: 6px;
+    border-radius: 26px;
+    position: absolute;
+    background: #ffffff52;
+    top: 145px;
+}
+.cstm-btn-two {
+    background: white;
+    color: #b00d0d;
+    border-radius: 18px;
+    padding: 6px 84px;
+    border: none;
+    position: absolute;
+    right: -3px;
+    top: 146px;
+}
+
+/*Newsletter part ends*/
+
+/*Blog part starts*/
+.Blog-part{
+
+}
+.one{
+
+}
+.two{
+
+}
+.two h3{
+ font-weight: bold;
+ margin-top: 68px;
+}
+.two p{
+    color:black;
+}
+.one p{
+    color:black;
+}
+.cstm-btn-three {
+    background: #dd4b2b;
+    border: none;
+    padding: 10px 36px;
+    border-radius: 24px;
+    margin-top: 28px;
+}
+.img-one{
+
+padding-top: 96px;
+}
+.img-two {
+
+}
+.cstm-btn-four {
+    background: #4b4e73;
+    border: none;
+    padding: 10px 36px;
+    border-radius: 24px;
+    margin-top: 50px;
+    
+}
+/*Blog part ends*/
+
+/*  part starts*/
+.list{
+    background: #d75d0e;
+
+}
+.content-one{
+text-align: center;
+}
+.content-one ul{
+list-style: none;
+}
+
+
+/* part ends*/
+
+/* footer part starts*/
+footer{
+    background:url(../img/8.png);
+    
+
+}
+.footer-content {
+    text-align: center;
+    
+    padding-top: 90px;
+    padding-bottom: 220px;
+}
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+                    /* Media query */
+
+/* mobile device*/
+@media(min-width:320px) and (max-width:500px){
+
+
+}
+/* ipad device*/
+@media(min-width:501.01px) and (max-width:768px){
+
+
+}
+/* laptop/desktop device*/
+@media(min-width:768.01px) and (max-width:1200px){
+
+
+}
+/* large device*/
+@media(min-width:1200.01px){
+
+
+}
